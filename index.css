@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+
+
+.frist-section {
+    background-image:url('Image/Capture.JPG');
+    padding:10px;
+   text-align: center; 
+}
+
+.frist-bottom{
+    height: 40px;
+    width:120px;
+    background: black;
+    text-align: center;
+   color: white;
+
+}
+
+.secound-habu about {
+    font-size: 12px;
+    text-align: center;
+}
+
+.frist-section h2{
+    font-size: 40px;
+   margin: 10px 0;
+    
+    
+}
